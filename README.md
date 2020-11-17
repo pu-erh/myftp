@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/network-myFtp-logo.png" />
+  <img src="./network-myFtp-logo.png" />
 </p>
 
 ## <a name='TOC'>🐼 Summary</a>
